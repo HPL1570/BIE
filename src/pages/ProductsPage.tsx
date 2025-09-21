@@ -16,7 +16,7 @@ const products = [
     id: 2,
     title: 'Spices',
     description: 'High-quality red chillis sourced from trusted farms. Known for rich flavor, vibrant color, and unmatched pungency.',
-    image: 'https://images.pexels.com/photos/1435752/pexels-photo-1435752.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://organicshandy.com/wp-content/uploads/2018/10/Red-Chilly.jpg?auto=compress&cs=tinysrgb&w=800',
     link: '/products/spices',
     features: ['Red Chillis', 'Rich Flavor', 'Vibrant Color', 'Export Quality']
   },
